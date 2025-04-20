@@ -10,12 +10,6 @@ Superstore/
 ├── main.ipynb             # Jupyter notebook version
 ├── Superstore.csv         # Dataset
 ├── requirements.txt       # Python dependencies
-├── visualizations/        # Generated visualizations
-│   ├── sales_trend.png
-│   ├── category_performance.png
-│   ├── customer_analysis.png
-│   ├── regional_analysis.png
-│   └── correlation_matrix.png
 └── README.md              # Project documentation
 ```
 

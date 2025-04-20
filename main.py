@@ -306,7 +306,7 @@ Let's examine customer behaviour and segments.
 
 #%%
 def analyse_customers(df):
-    """Analyse customer behaviour and segments."""
+    """ Analyse customer behaviour and segments."""
     print("\nAnalysing customer data...")
     
     # Create customer dataset
@@ -380,7 +380,7 @@ Let's examine performance by region.
 
 #%%
 def analyse_regions(df):
-    """Analyse performance by region."""
+    """ Analyse performance by region."""
     print("\nAnalysing regional performance...")
     
     # Create regional dataset
@@ -462,7 +462,7 @@ Let's examine relationships between numeric variables.
 
 #%%
 def analyse_correlations(df):
-    """Analyse correlations between numeric variables."""
+    """ Analyse correlations between numeric variables."""
     print("\nAnalysing correlations...")
     
     # Select numeric columns
@@ -500,7 +500,7 @@ correlation_analysis = analyse_correlations(df)
 #%% [markdown]
 """
 # 10. Summary and Insights
-Let's summarise our key findings and provide actionable recommendations.
+Let's go ahead and summarise our key findings and provide actionable recommendations.
 
 **Note:** This section will:
 - Highlight key performance metrics
@@ -511,7 +511,7 @@ Let's summarise our key findings and provide actionable recommendations.
 
 #%%
 def summarise_insights(df, sales_analysis, category_analysis, customer_analysis, regional_analysis):
-    """Summarise key insights from the analysis."""
+    """ Summarise key insights from the analysis."""
     print("\n=== KEY INSIGHTS ===")
     
     # Sales Performance

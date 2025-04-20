@@ -1,7 +1,7 @@
 # Superstore Data Analysis Project
 
 ## Overview
-This project performs a comprehensive analysis of the Superstore dataset, providing valuable insights into sales performance, customer behavior, and regional trends. The analysis includes interactive visualizations and actionable recommendations for business improvement.
+This project performs a comprehensive analysis of the Superstore dataset, providing valuable insights into sales performance, customer behaviour, and regional trends. The study includes interactive visualisations and actionable recommendations for business improvement.
 
 ## Project Structure
 ```
@@ -35,7 +35,7 @@ Superstore/
 
 - **Key Insights**
   - Sales performance metrics
-  - Customer behavior patterns
+  - Customer behaviour patterns
   - Regional market share
   - Product category profitability
   - Strategic recommendations
@@ -103,10 +103,10 @@ jupyter notebook main.ipynb
    - Business insights
 
 ## Results
-The analysis generates several visualizations and insights:
+The analysis generates several visualisations and insights:
 - Sales trend analysis
 - Category performance metrics
-- Customer behavior patterns
+- Customer behaviour patterns
 - Regional market share
 - Correlation matrices
 
@@ -114,7 +114,7 @@ The analysis generates several visualizations and insights:
 Based on the analysis, key recommendations include:
 - Focus on high-margin categories
 - Develop targeted marketing strategies
-- Optimize regional operations
+- Optimise regional operations
 - Implement customer retention programs
 - Adjust pricing strategies
 
